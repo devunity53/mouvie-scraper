@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# App config
+mouvie_gui_config.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*_backup.py
